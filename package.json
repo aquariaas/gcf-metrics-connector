@@ -1,0 +1,19 @@
+{
+  "name": "gcf-metrics-connector",
+  "version": "1.0.0",
+  "description": "Connectin shit noneya bizness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquariaas/gcf-metrics-connector.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aquariaas/gcf-metrics-connector/issues"
+  },
+  "homepage": "https://github.com/aquariaas/gcf-metrics-connector#readme"
+}
